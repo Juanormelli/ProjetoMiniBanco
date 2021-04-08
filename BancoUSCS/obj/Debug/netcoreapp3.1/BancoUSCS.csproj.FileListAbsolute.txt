@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\obj\Debug\netcoreapp3.1\BancoUSCS.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\obj\Debug\netcoreapp3.1\BancoUSCS.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\obj\Debug\netcoreapp3.1\BancoUSCS.AssemblyInfo.cs
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\obj\Debug\netcoreapp3.1\BancoUSCS.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\bin\Debug\netcoreapp3.1\BancoUSCS.exe
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\bin\Debug\netcoreapp3.1\BancoUSCS.deps.json
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\bin\Debug\netcoreapp3.1\BancoUSCS.runtimeconfig.json
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\bin\Debug\netcoreapp3.1\BancoUSCS.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\bin\Debug\netcoreapp3.1\BancoUSCS.dll
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\bin\Debug\netcoreapp3.1\BancoUSCS.pdb
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\obj\Debug\netcoreapp3.1\BancoUSCS.dll
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\obj\Debug\netcoreapp3.1\BancoUSCS.pdb
+C:\Users\juan_\source\repos\BancoUSCS\BancoUSCS\obj\Debug\netcoreapp3.1\BancoUSCS.genruntimeconfig.cache
